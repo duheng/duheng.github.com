@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的空间
 
-You can use the [editor on GitHub](https://github.com/duheng/duheng.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+从事大前端开发多年，曾就职于 微信电影票 ，猫眼电影，目前就职于去哪儿网前端框架组负责基础方向的研发；
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 擅长技术
 
-### Markdown
+- react-native:  react-native领域，并有个人开源项目https://github.com/duheng/Mozi以及相关领域文章
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- node
 
-```markdown
-Syntax highlighted code block
+- react
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 组织
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duheng/duheng.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+目前组织是去那儿网YMFE，负责维护和开发YMFE组织内的前端工具以及一系列解决方案
